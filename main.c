@@ -38,7 +38,7 @@ int main() {
                 eliminarLibro(biblioteca, &numLibros);
                 break;
             case 6:
-                printf("\n[INFO] Gracias por usar el sistema de biblioteca. Hasta pronto!\n");
+                printf("\n[INFO] Gracias por usar el sistema de biblioteca. Hasta pronto =)!\n");
                 break;
             default:
                 printf("\n[ERROR] Opcion invalida. Seleccione una opcion del 1 al 6.\n");
